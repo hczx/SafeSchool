@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">SafeSchool</string>
+
+
+    <string name="label_settings">设置</string>
+
+    <string name="home_textview_name">Hello World!</string>
+    <string name="usename_edittext_hint">手机号</string>
+    <string name="passwrod_edittext_hint">密码</string>
+    <string name="btn_login">登陆</string>
+    <string name="login_or">第三方登陆</string>
+    <string name="forgot_password">忘记密码</string>
+    <string name="register_now">没有账号？去注册</string>
+    <string name="splash_text">365平安校园</string>
+    <string name="guidance_button_text">进入</string>
+    <string name="tab_home">首頁</string>
+    <string name="tab_account">我的</string>
+    <string name="tab_education">教育宝典</string>
+    <string name="tab_class_circle">班级圈</string>
+    <string name="tab_message">消息</string>
+    <string name="textview_signature">个性签名...</string>
+    <string name="username_textview">夏旭</string>
+    <string name="teacher_textview">班主任 吴老师</string>
+    <string name="action_search">搜索</string>
+    <string name="search_hint">搜索关键词</string>
+
+    <!--main strings-->
+    <string name="main_subtab_notice">通知公告</string>
+    <string name="main_subtab_365">365在线</string>
+    <string name="main_subtab_focus">热点聚焦</string>
+
+    <!--for test-->
+    <string name="content_description">Content Description</string>
+    <string name="placehold_short">Placehold</string>
+    <string name="placehold_long">Fugit assumenda est incidunt. Odio doloribus non consequatur itaque. Reiciendis et laborum non enim. </string>
+
+    <!-- class_circle-->
+    <string name="comments_reply_text">回复</string>
+</resources>
